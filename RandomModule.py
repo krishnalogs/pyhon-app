@@ -17,5 +17,5 @@ import random
 
 
 # prints the random number from the selected range
-random.seed(5)
-print(random.randint(5,10))
+# random.seed(5)
+# print(random.randint(5,10))
